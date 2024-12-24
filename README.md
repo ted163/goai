@@ -1,0 +1,2 @@
+# goai
+goai algorithm
